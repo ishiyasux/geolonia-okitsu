@@ -36,7 +36,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://ishiyasux.github.io/geolonia-okitsu/",
+  "homepage": "https://geolonia-okitsu.holon.dev/",
   "eslintConfig": {
     "extends": "react-app"
   },
