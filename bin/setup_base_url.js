@@ -26,7 +26,7 @@ if (!config.homepage) {
   process.exit(2);
 }
 
-config.homepage = `https://${GITHUB_USERNAME}.github.io/${GITHUB_REPOSITORY}/`
+config.homepage = `https://geolonia-okitsu.holon.dev/`
 
 fs.writeFileSync(filePath, JSON.stringify(config, null, 2));
 
